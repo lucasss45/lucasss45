@@ -1,4 +1,4 @@
-### Hi there i'm Lucas Vizeu ⭐
+### Hi There I'm Lucas Vizeu ⭐
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef3f87&height=120&section=header"/>
 <h2>About Me</h2>
