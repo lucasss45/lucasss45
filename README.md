@@ -3,13 +3,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ef3f87&height=120&section=header"/>
 <h2>About Me</h2>
 
-- 🎓 I’m a Web Developer
-- 🖥️ I’m currently learning Back-end to improve with Java, JS, PHP, SQL ...
-- 🚀 I’m looking to collaborate on ...
-- ⚡ I’m looking for help with ...
+- 🎓 I’m a Full Stack Web Developer
+- 🖥️ I’m currently learning web development and IA
+- 🚀 I’m looking to collaborate on inovation projects
+- ⚡ I’m looking for learn and create new..
 - 🦊 Ask me about Tecnology, series, pets, movies, games, marcial arts ...
-- 🌎 My dream it's travel around the world and learn as much as I can: ...
-
+- 🌎 My dream it's travel around the world and learn as much as I can.
 
 
 <br>
