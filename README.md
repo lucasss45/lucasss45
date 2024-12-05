@@ -7,7 +7,7 @@
 - 🖥️ I’m currently learning web development and IA
 - 🚀 I’m looking to collaborate on inovation projects
 - ⚡ I’m looking for learn and create new..
-- 🦊 Ask me about Tecnology, series, pets, movies, games, marcial arts ...
+- 🎮 Ask me about Tecnology, series, pets, movies, games, marcial arts ...
 - 🌎 My dream it's travel around the world and learn as much as I can.
 
 
